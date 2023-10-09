@@ -1,4 +1,5 @@
 # webhook
+点赞人数和访问量大的话，后期更新脚本和配置方法
 配合https://github.com/danni-cool/docker-wechatbot-webhook
 推送热搜的脚本。
 后期更新推送中带有短链接相关的代码。
